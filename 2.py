@@ -12,9 +12,9 @@ def divide(a, b):
         return a / b
     else:
         return "Cannot divide by zero."
-
+print("asfjdhasjkdf ")
 # Predefined values
-num1 = 10
+num1 = input("fesfsdj jlhl")
 num2 = 7
 
 # Perform operations
